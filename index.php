@@ -1,3 +1,7 @@
 <?php
-echo "hola";
+
+require_once 'libs/app.php';
+
+$app = new App();
+
 ?>
